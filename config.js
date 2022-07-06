@@ -1,16 +1,16 @@
 //=============『 Utama 』================== //
-global.owner = ['088227758096'] 
+global.owner = ['6288227758096'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Fachri'
-global.numberowner = '088227758096'
+global.numberowner = '6288227758096'
 global.instagram = 'https://instagram.com/ainul_181'
 global.github = 'https://github.com/Fachri31'
-global.dana = '088227758096'
-global.pulsa = '088227758096'
-global.gopay = '088227758096'
+global.dana = '6288227758096'
+global.pulsa = '6288227758096'
+global.gopay = '6288227758096'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'FazhBotz'
