@@ -19,8 +19,8 @@ global.web = 'https://chat.whatsapp.com/H6Cd0zAAI7Y0kTAxOgzeGN' //ubah jadi webs
 global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg' //ini juga ganti 
+global.fotonya1 = 'IMG-20220706-WA0040.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'IMG-20220706-WA0040.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'FazhBotz'
